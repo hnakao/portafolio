@@ -169,7 +169,7 @@ const workExperiences = {
       company: "SolDev",
       companylogo: require("./assets/images/soldev.png"),
       date: "Agosto 2019 – Actualidad",
-      desc: ""
+      desc: "Desarrollo de Web TimeTracker para gestionar tiempo y salario de desarrolladores"
     },
   ]
 };
